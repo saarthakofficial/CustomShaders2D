@@ -23,8 +23,8 @@ This repository contains custom 2D shaders created using Unity's Shader Graph in
 
 1. Clone or download the repository.
 2. Open the Unity project containing your 2D scene.
-3. Import the shaders into your project.
-4. Apply the shaders to your 2D sprites through the Shader Inspector.
+3. Open the shader folder of your choice.
+4. Apply the shaders to your 2D sprites through the Shader Inspector and modify the values accordingly.
 
 Feel free to contribute by adding more 2D shaders or improving the existing ones. If you encounter any issues or have suggestions, please open an issue.
 
