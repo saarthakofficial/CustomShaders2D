@@ -1,6 +1,6 @@
 # CustomShaders2D
 
-![Unity Version](https://img.shields.io/badge/Unity-2019.4.18f1-blue.svg)
+![Unity Version](https://img.shields.io/badge/Unity-2021.3.24f1-blue.svg)
 ![URP Version](https://img.shields.io/badge/URP-7.3.1-blue.svg)
 
 This repository contains custom 2D shaders created using Unity's Shader Graph in the Universal Render Pipeline (URP). Feel free to use and modify these shaders in your 2D projects to add unique visual effects.
@@ -16,11 +16,20 @@ This repository contains custom 2D shaders created using Unity's Shader Graph in
 - **Noise**: Introduce noise for a more dynamic effect.
 - **Dissolve Effect**: Control the dissolve effect on the flame.
 
-#### Usage
-1. Attach the shader to a 2D sprite in your scene.
-2. Customize the flame texture, colors, and other parameters in the Shader Inspector.
+#### Preview
+![Fire Projectile Shader](outputs/fire_projectile.gif)
 
-```shader
-Shader "Shader Graphs/Flames" {
-    // ... (Shader code)
-}
+## How to Use
+
+1. Clone or download the repository.
+2. Open the Unity project containing your 2D scene.
+3. Import the shaders into your project.
+4. Apply the shaders to your 2D sprites through the Shader Inspector.
+
+Feel free to contribute by adding more 2D shaders or improving the existing ones. If you encounter any issues or have suggestions, please open an issue.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Happy coding! 🚀
