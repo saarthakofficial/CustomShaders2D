@@ -1,7 +1,7 @@
 # CustomShaders2D
 
 ![Unity Version](https://img.shields.io/badge/Unity-2021.3.24f1-blue.svg)
-![URP Version](https://img.shields.io/badge/URP-7.3.1-blue.svg)
+![URP Version](https://img.shields.io/badge/URP-12.1.11-blue.svg)
 
 This repository contains custom 2D shaders created using Unity's Shader Graph in the Universal Render Pipeline (URP). Feel free to use and modify these shaders in your 2D projects to add unique visual effects.
 
